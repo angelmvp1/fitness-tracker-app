@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Apex Cycle Tracker</string>
+    <string name="reminder_channel_name">Recordatorios</string>
+    <string name="reminder_channel_description">Notificaciones para recordatorios de suplementos e inyecciones.</string>
+</resources>
